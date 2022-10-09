@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is John
 ====================================================================================================================================
 
-Frontend Developer
+Graphic designer & Frontend Developer
 ------------------
 
 “I worked as a freelancer and a digital artist in Front-end web development. I wish to work in a a dynamic organization that will contribute to my professional and personal growth while I contribute to the growth of the company as well as engage in opportunities to further the company’s goals.”
