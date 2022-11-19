@@ -8,8 +8,8 @@ Graphic designer & Visual Designer
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [johnsillustrate@gmail.com](mailto:johnsillustrate@gmail.com)
-* 🧠  I'm learning Advance React hooks
-* 🤝  I'm open to collaborating on Frontend projects
+* 🧠  I'm learning Advance Motion Graphics
+* 🤝  I'm open to collaborating on Designing projects
 
 ### Skills
 
