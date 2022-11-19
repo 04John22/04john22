@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Graphic designer & Visual Designer
 ------------------
 
-“I worked as a freelancer and a digital artist in Front-end web development. I wish to work in a a dynamic organization that will contribute to my professional and personal growth while I contribute to the growth of the company as well as engage in opportunities to further the company’s goals.”
+“I worked as a freelancer and a digital artist in Designing field. I wish to work in a a dynamic organization that will contribute to my professional and personal growth while I contribute to the growth of the company as well as engage in opportunities to further the company’s goals.”
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [johnsillustrate@gmail.com](mailto:johnsillustrate@gmail.com)
